@@ -5,6 +5,8 @@ Algorithm Metadata Vocabulary is a vocabulary for capturing and storing the meta
 
 ## Contact 
 **Biswanath Dutta (Indian Statistical Institute)** 
+
 (@biswanathdutta) 
- <dutta2005@gmail.com>, 
+
+<dutta2005@gmail.com>, 
  <bisu@drtc.isibang.ac.in> 
