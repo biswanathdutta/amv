@@ -25,7 +25,7 @@
         <dc:creator xml:lang="en">Jyotima Patel</dc:creator>
         <dc:date xml:lang="en">2021-03-11T00:00:00</dc:date>
         <dc:description xml:lang="en">Metadata vocabularies are used in various domains of study. It provides an in-depth description of the resources. In this work, we develop Algorithm Metadata Vocabulary (AMV), a vocabulary for capturing and storing the metadata about the algorithms (a procedure or a set of rules that is followed step-by-step to solve a problem, especially by a computer). The snag faced by the researchers in the current time is the failure of getting relevant results when searching for algorithms in any search engine. AMV is represented as a semantic model and produced OWL file, which can be directly used by anyone interested to create and publish algorithm metadata as a knowledge graph, or to provide metadata service through SPARQL endpoint. To design the vocabulary, we propose a well-defined methodology, which considers real issues faced by the algorithm users and the practitioners. The evaluation shows a promising result.</dc:description>
-        <dc:license xml:lang="en">https://creativecommons.org/licenses/by/4.0/</dc:license>
+        <dc:license xml:lang="en">http://creativecommons.org/publicdomain/zero/1.0/</dc:license>
         <dc:title xml:lang="en">AMV:Algorithm Metadata Vocabulary</dc:title>
         <mod:competencyQuestion xml:lang="en">CQ1: What characteristics or properties are common across all Algorithms?
 CQ2: Which algorithm belongs to subject mathematics and solves combinatorial problems?
